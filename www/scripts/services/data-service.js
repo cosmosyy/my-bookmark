@@ -39,7 +39,7 @@ app.factory('dataService', [function () {
       title: '首页'
     }, {
       uiSref: 'login',
-      title: '登录',
+      title: '演示',
       show: false,
     }, {
       uiSref: 'hot',
